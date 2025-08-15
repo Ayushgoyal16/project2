@@ -1,3 +1,4 @@
 # New Project
-This project was created by Ayush goyal in its local System
+This project was created  in its local System.
+By Ayush goyal
 
